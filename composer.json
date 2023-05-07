@@ -1,0 +1,22 @@
+{
+    "name": "pedriin647/radicalerp",
+    "description": "Aplicação Web para controle e gestão de uma casa de ração",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/",
+            "core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pedriin647",
+            "email": "leonelpedro443@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "twig/twig": "2.4",
+        "twig/extensions": "^1.5"
+    }
+}
