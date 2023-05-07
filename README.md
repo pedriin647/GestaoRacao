@@ -3,8 +3,6 @@
 </h1>
 <p align="center">🚀 Aplicação web simples para otimizar o fluxo de trabalho de casas de ração.</p>
 
-
-[![GitHub commits](https://badgen.net/github/commits/Pedriin647/GestaoRacao)](https://GitHub.com/Pedriin647/GestaoRacao/commit/)
 [![GitHub forks](https://img.shields.io/github/forks/Pedriin647/GestaoRacao.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Pedriin647/GestaoRacao/network/)
 [![GitHub license](https://img.shields.io/github/license/Pedriin647/GestaoRacao.svg)](https://github.com/Pedriin647/GestaoRacao/blob/master/LICENSE)
 
