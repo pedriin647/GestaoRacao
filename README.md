@@ -4,9 +4,9 @@
 <p align="center">🚀 Aplicação web simples para otimizar o fluxo de trabalho de casas de ração.</p>
 
 
-[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
-[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![GitHub commits](https://badgen.net/github/commits/Pedriin647/GestaoRacao)](https://GitHub.com/Pedriin647/GestaoRacao/commit/)
+[![GitHub forks](https://img.shields.io/github/forks/Pedriin647/GestaoRacao.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Pedriin647/GestaoRacao/network/)
+[![GitHub license](https://img.shields.io/github/license/Pedriin647/GestaoRacao.svg)](https://github.com/Pedriin647/GestaoRacao/blob/master/LICENSE)
 
 ### Features
 
