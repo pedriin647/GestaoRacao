@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🚧  Radical ERP🔗 - Em construção...  🚧</a>
+    <a href="https://www.canva.com/design/DAFfFDI3Rjo/FadbiVOQ5ltml836c3ff1A/view?utm_content=DAFfFDI3Rjo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">🚧  Radical ERP🔗 - Em construção...  🚧</a>
 </h1>
 <p align="center">🚀 Aplicação web simples para otimizar o fluxo de trabalho de casas de ração.</p>
 
@@ -22,11 +22,11 @@
 
 As seguintes ferramentas estão sendo usadas na construção do projeto:
 
-- [Php]
-- [Twig]
-- [Bootstrap]
-- [Html]
-- [Css]
+- [Php](https://www.php.net/)
+- [Twig](https://twig.symfony.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Html](#)
+- [Css](#)
 
 
 ### Autor
@@ -40,5 +40,5 @@ As seguintes ferramentas estão sendo usadas na construção do projeto:
 
 Feito com ❤️ por Pedro Leonel" ⚔️ Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/pedro-leonel-52980a210/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:leonelpedro443@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-leonel-52980a210/)](https://www.linkedin.com/in/pedro-leonel-52980a210/) 
+[![Gmail Badge](https://img.shields.io/badge/-leonelpedro443@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonelpedro443@gmail.com)](mailto:leonelpedro443@gmail.com)
