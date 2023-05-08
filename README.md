@@ -36,7 +36,7 @@ As seguintes ferramentas estão sendo usadas na construção do projeto:
  <sub><b>Pedro Leonel"</b></sub></a> <a href="https://www.linkedin.com/in/pedro-leonel-52980a210/" title="Pedro Leonel">⚔️</a>
 
 
-Feito com ❤️ por Pedro Leonel" * Entre em contato!
+Feito com ❤️ por Pedro Leonel" - Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-leonel-52980a210/)](https://www.linkedin.com/in/pedro-leonel-52980a210/) 
 [![Gmail Badge](https://img.shields.io/badge/-leonelpedro443@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonelpedro443@gmail.com)](mailto:leonelpedro443@gmail.com)
