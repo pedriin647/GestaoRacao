@@ -3,7 +3,9 @@
 
 namespace app\controllers\admin;
 
-class HomeController{
+use app\controllers\ContainerController;
+
+class HomeController extends ContainerController{
 
     public function index(){
         

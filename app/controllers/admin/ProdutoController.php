@@ -2,7 +2,9 @@
 
 namespace app\controllers\admin;
 
-class ProdutoController{
+use app\controllers\ContainerController;
+
+class ProdutoController extends ContainerController{
 
 
     public function index(){
@@ -11,7 +13,13 @@ class ProdutoController{
     
     public function show($request){
 
-        dd($request->next);
+       $this->view([
+
+        'title' => 'Produto',
+        
+        'racao' => 'Pedigree 10KG',
+
+       ],'admin.produtos');
 
     }
 
