@@ -6,7 +6,9 @@
         "psr-4": {
             "app\\": "app/",
             "core\\": "core/"
-        }
+        },
+        "files": ["app/functions/helpers.php"]
+
     },
     "authors": [
         {

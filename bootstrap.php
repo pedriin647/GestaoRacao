@@ -2,4 +2,8 @@
 
 require "vendor/autoload.php";
 
-require "app/functions/helpers.php";
+use app\classes\Bind;
+
+$cfg = require "config.php";
+
+Bind::set('config', $cfg);
