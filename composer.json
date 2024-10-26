@@ -3,9 +3,13 @@
     "description": "Aplicação web simples para otimizar o fluxo de trabalho de casas de ração",
     "type": "project",
     "license": "MIT",
+    
     "autoload": {
         "psr-4": {
-            "Pedriin647\\RadicalErp\\": "app/"
+            "Pedriin647\\RadicalErp\\": "app/",
+            "Pedriin647\\RadicalErp\\Controllers\\": "app/Controllers/",
+            "Pedriin647\\RadicalErp\\Models\\": "app/Models/",
+            "Pedriin647\\RadicalErp\\Core\\": "app/Core/"
         }
     },
     "authors": [
@@ -14,5 +18,7 @@
             "email": "leonelpedro443@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
 }
