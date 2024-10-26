@@ -33,7 +33,7 @@ As seguintes ferramentas estão sendo usadas na construção do projeto:
 ---
 
 <a href="https://www.linkedin.com/in/pedro-leonel-52980a210/">
- <img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/D4D03AQHdZwaGWcFXcA/profile-displayphoto-shrink_800_800/0/1682010783703?e=1689206400&v=beta&t=V4hIL_Yze34duoq84a6ysX3D2SPmaoDvb7AmHho6Ioo" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/v2/D4D03AQHX6NRldlTSQQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718238915002?e=1735171200&v=beta&t=x8lzSmgokAdKbN_zlvwvpRTthVMD39mXKlhnouIqDxM" width="100px;" alt=""/>
  <br />
  <sub><b>Pedro Leonel"</b></sub></a> <a href="https://www.linkedin.com/in/pedro-leonel-52980a210/" title="Pedro Leonel">⚔️</a>
 
