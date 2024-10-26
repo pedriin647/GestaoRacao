@@ -1,13 +1,14 @@
 <h1 align="center">
     <a href="https://www.canva.com/design/DAFfFDI3Rjo/FadbiVOQ5ltml836c3ff1A/view?utm_content=DAFfFDI3Rjo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">🚧  Radical ERP🔗 - Em construção...  🚧</a>
 </h1>
-<p align="center">🚀 Aplicação web simples para otimizar o fluxo de trabalho de casas de ração.</p>
+<p align="center">🚀 Aplicação web Saas simples para otimizar o fluxo de trabalho de casas de ração.</p>
 
 [![GitHub forks](https://img.shields.io/github/forks/Pedriin647/GestaoRacao.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Pedriin647/GestaoRacao/network/)
 [![GitHub license](https://img.shields.io/github/license/Pedriin647/GestaoRacao.svg)](https://github.com/Pedriin647/GestaoRacao/blob/master/LICENSE)
 
 ### Features
 
+- [ ] Cadastro de Empresa (Multi Tenancy)
 - [ ] Cadastro de usuário
 - [ ] Cadastro de cliente
 - [ ] Cadastro de produtos
@@ -21,7 +22,8 @@
 As seguintes ferramentas estão sendo usadas na construção do projeto:
 
 - [Php](https://www.php.net/)
-- [Twig](https://twig.symfony.com/)
+- [Javascript](#)
+- [MySql](#)
 - [Bootstrap](https://getbootstrap.com/)
 - [Html](#)
 - [Css](#)

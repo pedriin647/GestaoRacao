@@ -1,24 +1,18 @@
 {
-    "name": "pedriin647/radicalerp",
-    "description": "Aplicação Web para controle e gestão de uma casa de ração",
+    "name": "pedriin647/radical-erp",
+    "description": "Aplicação web simples para otimizar o fluxo de trabalho de casas de ração",
+    "type": "project",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "app\\": "app/",
-            "core\\": "core/"
-        },
-        "files": ["app/functions/helpers.php"]
-
+            "Pedriin647\\RadicalErp\\": "app/"
+        }
     },
     "authors": [
         {
-            "name": "pedriin647",
+            "name": "Pedriin647",
             "email": "leonelpedro443@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {
-        "twig/twig": "2.4",
-        "twig/extensions": "^1.5"
-    }
+    "require": {}
 }
